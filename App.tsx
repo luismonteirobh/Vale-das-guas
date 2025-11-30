@@ -147,10 +147,10 @@ const App: React.FC = () => {
         {/* Text Content */}
         <div className="flex flex-col items-center text-center space-y-3 mt-4 mb-8">
           <h1 className="text-3xl md:text-4xl font-[900] text-vale-blue leading-tight tracking-tight drop-shadow-sm">
-            O plano perfeito para sua família!
+            Tenha um parque aquático para curtir o ano todo!
           </h1>
           <p className="text-gray-600 text-lg font-medium leading-relaxed max-w-xs">
-            Responda nosso quiz rápido e descubra a melhor forma de curtir o parque.
+            Vamos descobrir juntos se essa experiência é ideal para você.
           </p>
         </div>
 

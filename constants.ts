@@ -9,7 +9,7 @@ export const QUESTIONS: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     options: [
       { id: 'warm_pools', label: "Piscinas quentinhas", value: "Piscinas quentinhas" },
-      { id: 'wave_pool', label: "Piscina de ondas", value: "Piscina de ondas" },
+      { id: 'wet_bar', label: "Bar molhado", value: "Bar molhado" },
       { id: 'slides', label: "Tobogãs e atrações", value: "Tobogãs e atrações" },
       { id: 'kids', label: "Área infantil com as crianças", value: "Área infantil com as crianças" },
     ]
